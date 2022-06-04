@@ -7,5 +7,5 @@ I am a final year student in Bachelors In Software Engineering at NCIT. I am a M
 - 🤔 I’m looking for Job as a Flutter Developer
 - ⚡ Fun fact: I love reading books, gaming and anime.
 
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilThapa7&show_icons=true&theme=dracula)
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anil-thapa-1&show_icons=true&theme=dracula)
 
