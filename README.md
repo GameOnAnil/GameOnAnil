@@ -1,5 +1,5 @@
 ### Hi, I am Anil Thapa 👋
-I am a final year student in Bachelors In Software Engineering at NCIT. I am a Mobile Application Developer. I have experiance working with Android Java ,Kotlin and Flutter.
+I am a Mobile Application Developer. I have experiance working with Android Java ,Kotlin and Flutter. My experties lie in flutter and i love to contribute to open source reposioties.
 
 ## I am a Flutter Developer | Android Developer (Kotlin/Java)
 - 🔭 I’m currently working on Mobile Application
