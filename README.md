@@ -7,5 +7,5 @@ I am a Mobile Application Developer. I have experiance working with Android Java
 - 🤔 I’m looking for Job as a Flutter Developer
 - ⚡ Fun fact: I love reading books, gaming and anime.
 
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anil-thapa-1&show_icons=true&theme=dracula)
+![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameonanil&show_icons=true&theme=dracula)
 
