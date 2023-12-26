@@ -8,3 +8,5 @@ I am a Mobile Application Developer. I have experiance working with Android Java
 - ⚡ Fun fact: I love reading books, gaming and anime.
 
 ![Anil's GitHub stats](https://github-readme-stats-git-master-gameonanils-projects.vercel.app/api?username=gameonanil&show_icons=true&theme=dracula)
+
+![Top Language](https://github-readme-stats-git-master-gameonanils-projects.vercel.app/api/top-langs?username=gameonanil&show_icons=true&theme=dracula&hide=javascript)
