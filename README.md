@@ -15,8 +15,8 @@ I am a Mobile Application Developer. I have experiance working with Android Java
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,java,html,css,vscode,github,git,androidstudio,kotlin,figma,"/>
-   <img src="https://skillicons.dev/icons?i=xd,firebase,linkedin,pr,swift,githubactions,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,kotlin,vscode,github,git,androidstudio,figma,html"/>
+   <img src="https://skillicons.dev/icons?i=xd,firebase,linkedin,pr,swift,githubactions,gitlab,css,"/>
 </div>
 <br/>
 
