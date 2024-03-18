@@ -16,13 +16,18 @@ I am a Mobile Application Developer. I have experiance working with Android Java
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,python,java,kotlin,vscode,github,git,androidstudio,figma,html"/>
-   <img src="https://skillicons.dev/icons?i=xd,firebase,linkedin,pr,swift,githubactions,gitlab,css,"/>
+    <img src="https://skillicons.dev/icons?i=xd,firebase,linkedin,pr,swift,githubactions,gitlab,css,"/>
 </div>
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align=center>
- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gameonanil&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gameonanil&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gameonanil&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gameonanil&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+<h2 align="center">⚡ LeetCode Stats ⚡</h2>
+<br>
+<div align=center>
+<img src = "https://leetcard.jacoblin.cool/gameonanil?theme=light,unicorn"/>
 </div>
